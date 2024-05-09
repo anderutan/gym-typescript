@@ -2,7 +2,7 @@ import HText from "@/share/HText";
 import { SelectedPage, BenefitType } from "@/share/types"
 import { HomeModernIcon, UserGroupIcon, AcademicCapIcon } from "@heroicons/react/24/solid"
 import {motion} from 'framer-motion'
-import Benefit from "./benefit";
+import Benefit from "./Benefit";
 import ActionButton from "@/share/ActionButton";
 import BenefitsPageGraphic from '@/assets/BenefitsPageGraphic.png'
 
